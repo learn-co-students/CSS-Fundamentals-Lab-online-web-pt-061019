@@ -3,3 +3,36 @@ body {
   height: 100%;
   margin: 0;
 }
+
+/* HEADER */
+header h1, header nav {
+   text-align: center;
+}
+
+/* SECTIONS - FEATURED PROPERTY */
+section#featured-property figure {
+   text-align: center;
+}
+
+section#featured-property figcaption {
+   font-size: 0.75em;
+}
+
+section#featured-property div {
+   width: 800px;
+   text-align: center;
+   margin: 0 auto;
+}
+
+/* SECTION - DETAILS */
+section#details {
+   display: block;
+}
+
+section#details div{
+   float: left;   
+   margin: 0 auto;
+   text-align: center;
+   width: 25%;
+   background-color: red;
+}
