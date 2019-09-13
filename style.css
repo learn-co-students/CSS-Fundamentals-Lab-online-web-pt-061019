@@ -17,6 +17,8 @@ nav a {
 
 section#featured-property {
   text-align: center;
+  display: inline;
+  margin: 0 auto;
 }
 img {
 
